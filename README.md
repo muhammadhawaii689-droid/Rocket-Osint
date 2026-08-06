@@ -20,8 +20,14 @@ and displays phone number intelligence in your terminal.
 ## 🛠 Installation (Termux)
 
 pkg update && pkg upgrade -y
+
 pkg install git python -y
-git clone https://github.com/muhammadhawaii689-droid/Rocket-Osint.git
+
+git clone 
+https://github.com/muhammadhawaii689-droid/Rocket-Osint.git
+
 cd Rocket-Osint
+
 pip install -r requirements.txt
+
 chmod +x "CLI ROCKET.py"
