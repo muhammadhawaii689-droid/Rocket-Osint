@@ -69,6 +69,6 @@ Ye tool sirf EDUCATIONAL aur ETHICAL purposes ke liye hai. Kisi ki privacy breac
 ================================================
 💬 KOI ISSUE?
 ================================================
-Agar koi error aata hai (jaise module not found), toh bina dare comment karo. Main help kar dunga!
+Agar koi error aata hai (jaise module not found), toh bina dare telegram par @rocketxd555 text karo ya instagram post par comment karo. Main help kar dunga!
 
 Happy Hacking! 🐧🔥
