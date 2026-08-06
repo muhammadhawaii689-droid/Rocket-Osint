@@ -19,8 +19,9 @@ and displays phone number intelligence in your terminal.
 
 ## 🛠 Installation (Termux)
 
-```bash
-pkg update && pkg install python -y
+pkg update && pkg upgrade -y
+pkg install git python -y
+git clone https://github.com/muhammadhawaii689-droid/Rocket-Osint.git
+cd Rocket-Osint
 pip install -r requirements.txt
-chmod +x rocket.py
-python rocket.py
+chmod +x "CLI ROCKET.py"
