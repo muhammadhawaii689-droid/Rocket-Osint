@@ -32,8 +32,6 @@ directly in your terminal.
 
 ```bash
 pkg update && pkg install python -y
-git clone https://github.com/muhammadhawaii689-droid/Rocket-Osint.git
-cd Rocket-Osint
-pip install -r requirements.txt
+cd ~/Rocket-Osint
 chmod +x rocket.py
 python rocket.py
