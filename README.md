@@ -1,7 +1,6 @@
-================================================
+
    ROCKET v3.0 - INDIA EDITION (Termux Guide)
    dev: @rocketxd555  |  Forked & Modified
-================================================
 
 🔹 YEH KYA HAI?
 Ye tool hai Indian mobile numbers (+91), landline (STD codes), aur emergency shortcodes ki intelligence lene ke liye. Isme kisi API key ya internet ki zaroorat nahi hai – sab kuch local run hota hai.
