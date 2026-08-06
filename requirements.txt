@@ -1,3 +1,0 @@
-pkg update && pkg install python -y
-chmod +x rocketOsint.py
-python rocketOsint.py
