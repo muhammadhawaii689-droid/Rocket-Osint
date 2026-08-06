@@ -31,3 +31,5 @@ cd Rocket-Osint
 pip install -r requirements.txt
 
 chmod +x "CLI ROCKET.py"
+
+./"CLI ROCKET.py"
