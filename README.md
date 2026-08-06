@@ -13,11 +13,17 @@ Abhi is modified version mein result screen ke 70-80% width mein aata hai (poora
 ================================================
 
    pkg update && pkg upgrade -y
+   
    pkg install python git -y
+   
    git clone https://github.com/muhammadhawaii689-droid/Rocket-Osint.git
+   
    cd Rocket-Osint
+   
    pip install -r requirements.txt
+   
    (Agar error aaye toh alag se install karo: pip install colorama)
+   
    python "CLI ROCKET.py"
 
 ================================================
