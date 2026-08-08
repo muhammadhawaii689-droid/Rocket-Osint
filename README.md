@@ -1,6 +1,4 @@
-===============================================================
    ROCKET xD - Number Lookup Tool (Termux / Linux CLI)
-===============================================================
 
 🚀 DESCRIPTION
 --------------
@@ -13,7 +11,6 @@ text with a typing animation for a vintage terminal feel.
 The tool is designed for Termux but works on any Linux
 environment with Python 3.6+.
 
-===============================================================
 📦 FEATURES
 ------------
 - ✅ Fast and simple 10-digit number lookup
@@ -25,7 +22,6 @@ environment with Python 3.6+.
 - ✅ Keyboard interrupt (Ctrl+C) friendly
 - ✅ Random delay between requests to avoid rate limits
 
-===============================================================
 🔧 REQUIREMENTS
 ----------------
 - Python 3.6 or higher
@@ -36,7 +32,6 @@ Dependencies (installed via requirements.txt):
 - requests
 - colorama
 
-===============================================================
 📥 INSTALLATION (Termux / Linux)
 --------------------------------
 1. Open Termux (or a Linux terminal) and run the following commands:
@@ -48,7 +43,6 @@ Dependencies (installed via requirements.txt):
    pip install -r requirements.txt
    python "CLI ROCKET.py"
 
-===============================================================
 🚀 USAGE
 ---------
 1. Launch the script (see installation step 2).
@@ -76,7 +70,6 @@ address: 123 Main St, City, State
 ⚡ Made by Rocket xD
 👉 Join: https://t.me/rocket_xd777
 
-===============================================================
 ⚠️ TROUBLESHOOTING
 -------------------
 - "Invalid number" : Ensure you enter exactly 10 digits, no spaces.
