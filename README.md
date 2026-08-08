@@ -5,7 +5,7 @@
 🚀 DESCRIPTION
 --------------
 This is a CLI-based phone number lookup tool that fetches
-details from the FTOSINT API (https://ftosint.world). It
+details from the FTOSINT API. It
 displays information such as name, address, circle, alternate
 number, and more. The output is formatted in a clean, colored
 text with a typing animation for a vintage terminal feel.
@@ -92,7 +92,7 @@ https://t.me/rocket_xd777
 📄 CREDITS & LICENSE
 ---------------------
 - Script developed by: Rocket xD
-- API provided by: FTOSINT (https://ftosint.world)
+- API provided by: FTOSINT
 - Banner and design inspired by Termux style.
 
 This tool is for educational and informational purposes only.
