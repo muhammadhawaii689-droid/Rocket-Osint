@@ -37,11 +37,11 @@ Dependencies (installed via requirements.txt):
 1. Open Termux (or a Linux terminal) and run the following commands:
 
    pkg update && pkg upgrade -y
-   pkg install python git -y
-   git clone https://github.com/muhammadhawaii689-droid/Rocket-Osint.git
-   cd Rocket-Osint
-   pip install -r requirements.txt
-   python "CLI ROCKET.py"
+pkg install python git -y
+git clone https://github.com/muhammadhawaii689-droid/Rocket-Osint.git
+cd Rocket-Osint
+pip install -r requirements.txt
+python "CLI ROCKET.py"
 
 🚀 USAGE
 ---------
